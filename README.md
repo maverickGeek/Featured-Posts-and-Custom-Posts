@@ -13,7 +13,8 @@ To use:
 
 For Plugin and Theme development requets email us at info@reactivedevelopment.net or go here http://www.reactivedevelopment.net/. If you have questions or requests for this plugin go here http://wordpress.org/support/plugin/featured-posts-custom-posts, for quick and paid support message us here at http://www.reactivedevelopment.net/contact/send-message/.
 
-New in Version 2.0
+New in Version 2.0:
+
 1. New js_featured_is_post_featured( postID[int] ) function
 2. short cut is_post_featured( userID[int] ) function
 3. js_featured_return_all_featured() function that returns an array of featured posts
